@@ -1,0 +1,2 @@
+# ffxivwiki
+ffxiv wiki
